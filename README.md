@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Carlos Castelan
 
 ## 🌟 About Me
-I'm a Fullstack Developer with over 4 years of experience working at Oracle. My role involves supporting and extending the procurement module within Oracle's ERP system. I hold a Bachelor's degree in Computer Systems Engineering from Universidad de las Américas Puebla. I'm passionate about software development across the entire stack, from frontend to backend, and I'm particularly interested in computer vision.
+I'm a Fullstack Developer with over 5 years of experience working at Oracle. My role involves supporting and extending the procurement module within Oracle's ERP system. I hold a Bachelor's degree in Computer Systems Engineering from Universidad de las Américas Puebla. I'm passionate about software development across the entire stack, from frontend to backend, and I'm particularly interested in computer vision.
 
 ## 🚀 Skills & Technologies
 - **Frontend:** React, Flutter, Swift, Oracle Visual Builder
